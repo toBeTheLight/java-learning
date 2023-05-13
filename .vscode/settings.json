@@ -1,0 +1,17 @@
+{
+  "java.project.sourcePaths": [
+    "2-var&operator/2.6-transform",
+    "2-var&operator/2.6-transfer",
+    "2-var&operator/2.6-boolean copy",
+    "2-var&operator/2.6-boolean",
+    "2-var&operator/2.5-char copy",
+    "2-var&operator/2.5-char",
+    "2-var&operator/2.4-float",
+    "2-var&operator/2.3-integer",
+    "2-var&operator/2.2-variable",
+    "2-var&operator/2.1-keyword",
+    "2-var&operator/2.1-identifier",
+    "1-base/1.1-helloWorld",
+    "2-var&operator/2.7-string"
+  ]
+}
