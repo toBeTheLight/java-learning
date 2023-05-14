@@ -14,8 +14,8 @@ public class Arithmetic {
 
     short s1 = 10;
     //s1 = s1 + 1; // 报错，short 与 int 的运算，需要强制类型转换
-    s1 += 1; // 不会报错，不涉及与 int 的运算，只是在 short 的字节上加1
-    s1++; // 不会报错，同上
+    s1 += 1;
+    s1++; // 不会报错
 
     byte b1 = 127; 
     System.out.println(++b1); // -128，自增不会改变类型
